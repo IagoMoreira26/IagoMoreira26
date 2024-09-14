@@ -12,7 +12,4 @@ Olá! Sou Iago Moreira, estudante de Tecnologia da Informação (TI). Estou semp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IagoMoreira26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMoreira26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=IagoMoreira26&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
