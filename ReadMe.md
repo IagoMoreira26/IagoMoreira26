@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 Olá! Sou Iago Moreira, estudante de Tecnologia da Informação (TI). Estou sempre em busca de aprender mais sobre o vasto ramo da tecnologia e aprimorar minhas habilidades. Valorizo a oportunidade de fazer novas amizades no trabalho, pois acredito que a colaboração e o trabalho em equipe são essenciais para meu crescimento profissional e pessoal. Estou aberto a novas experiências e desafios, ansioso para contribuir e crescer com outros apaixonados por TI.
 
 
